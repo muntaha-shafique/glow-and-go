@@ -17,13 +17,13 @@
 
 ---
 
-## ✨ About The Project
+##  About The Project
 
 **GLOW & GO** is a modern beauty salon website concept designed to deliver an elegant and visually engaging online experience.
 
 Built with React and Vite, the website combines contemporary layouts, bold typography, vibrant pink aesthetics, and smooth animations to showcase beauty services in a stylish way.
 
-## 🎀 Design Highlights
+##  Design Highlights
 
 - Modern editorial-inspired hero section
 - Elegant pink and lime-green color palette
@@ -33,7 +33,7 @@ Built with React and Vite, the website combines contemporary layouts, bold typog
 - Promotional offer section
 - Responsive layouts for desktop and mobile
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -44,16 +44,25 @@ Built with React and Vite, the website combines contemporary layouts, bold typog
 | GSAP | Animations |
 | Lucide React | Icons |
 
-## 📸 Website Preview
+##  Live Website
 
 <p align="center">
-  <!-- Add your website screenshot here -->
-  <img src="screenshots/homepage.png" width="90%" alt="GLOW AND GO Website Preview" />
+  <a href="https://glow-and-go-sigma.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Live%20Website-EB4A4A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website" />
+  </a>
 </p>
 
-<p align="center"><i>Website preview — replace this image with your actual screenshot.</i></p>
+<p align="center">
+  <b>GLOW & GO — Beauty Salon</b>
+</p>
 
-## 🚀 Getting Started
+<p align="center">
+  <a href="https://glow-and-go-sigma.vercel.app/">
+    https://glow-and-go-sigma.vercel.app/
+  </a>
+</p>
+
+##  Getting Started
 
 Follow these steps to run the project locally.
 
@@ -83,7 +92,7 @@ npm run dev
 
 Open the local URL displayed in your terminal.
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 glow-and-go/
@@ -100,7 +109,7 @@ glow-and-go/
 └── README.md
 ```
 
-## 🎨 Brand Identity
+##  Brand Identity
 
 | Element | Color |
 |---|---|
@@ -110,7 +119,7 @@ glow-and-go/
 | Dark Text | `#171717` |
 | White | `#FFFFFF` |
 
-## 💡 Project Goals
+##  Project Goals
 
 - Create a visually memorable beauty salon experience.
 - Practice modern React development.
